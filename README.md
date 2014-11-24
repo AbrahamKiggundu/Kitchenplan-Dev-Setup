@@ -7,4 +7,3 @@ First install kitchenplan
 
 - gem install kitchenplan
 - kitchenplan setup
-- 
